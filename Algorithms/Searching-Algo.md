@@ -1,4 +1,4 @@
-# SORTING  ALGORITHMS
+# SEARCHING  ALGORITHMS
 
 |Algo                          |Here                        |
 |-------------------------------|-----------------------------|
